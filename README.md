@@ -1,7 +1,7 @@
 ### Olá ~ 👋🏼
 Aqui é onde compartilho meus trabalhos e passatempos
 
-Atualmente estou estudando algoritmos e Rust!
+Atualmente estou estudando algoritmos e Java!
 
 <details>
   <summary>⚡ Visão geral do meu perfil</summary>

@@ -1,4 +1,4 @@
-### Olá ~ 👋🏼
+### Olá/Hello/Hola! ~ 👋🏼
 Aqui é onde compartilho meus trabalhos e passatempos
 
 Atualmente estou estudando algoritmos e Java!

@@ -1,7 +1,7 @@
 ### Olá/Hello/Hola! ~ 👋🏼
 This is where I share my work and hobbies.
-I'm currently studying algorithms and Java!
 
+I'm currently studying algorithms and Java!
 <details>
   <summary>⚡ Profile overview</summary>
   <br/>

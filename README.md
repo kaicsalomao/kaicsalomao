@@ -1,7 +1,7 @@
 ### Olá/Hello/Hola! ~ 👋🏼
-Aqui é onde compartilho meus trabalhos e passatempos
+This is where I share my work and hobbies
 
-Atualmente estou estudando algoritmos e Java!
+I'm currently studying algorithms and Java!
 
 <details>
   <summary>⚡ Visão geral do meu perfil</summary>

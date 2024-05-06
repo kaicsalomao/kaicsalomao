@@ -4,7 +4,7 @@ This is where I share my work and hobbies
 I'm currently studying algorithms and Java!
 
 <details>
-  <summary>⚡ Visão geral do meu perfil</summary>
+  <summary>⚡ Profile overview</summary>
   <br/>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicsalomao&layout=compact&hide=css,html&theme=dracula)

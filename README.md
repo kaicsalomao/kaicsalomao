@@ -1,5 +1,5 @@
-### Olá/Hello/Hola! ~ 👋🏼
-This is where I share my work and hobbies.
+### Olá • Hello • Hola! ~ 👋🏼
+This is where I share my work and hobbies. <br/>
 I'm currently studying algorithms and Java!
 <details>
   <summary>⚡ Profile overview</summary>

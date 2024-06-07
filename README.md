@@ -1,4 +1,4 @@
-### Olá • Hello • Hola! ~ 👋🏼
+### Hello ~ 👋🏼
 This is where I share my work and hobbies. <br/>
 I'm currently studying algorithms and Java!
 <details>
